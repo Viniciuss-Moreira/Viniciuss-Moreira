@@ -51,6 +51,7 @@ Atualmente, estudante em Desenvolvimento de Software Multiplataforma na Fatec (F
 
 [![SQL](https://img.icons8.com/color/50/000000/sql.png)]()
 [![Python](https://img.icons8.com/?size50&id=13441&format=png&color=000000)]()
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
 </div>
 
