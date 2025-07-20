@@ -1,4 +1,7 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header' width='100%'/>
+[<img src='https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header' width='100%'/>
+](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&section=header&descAlign=50)
+
+<div align='center'>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Eu+sou+o+Vinicius.)](https://git.io/typing-svg)
 
@@ -10,26 +13,18 @@
 
 ## Sobre mim
 
-Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista) e formada em Mecânica pelo IFSP (Instituto Federal de São Paulo). Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento. Participação ativa em grupos de eventos futuros e desafios, buscando aprimorar habilidades em computação e inovação.
+Atualmente, estudante em Desenvolvimento de Software Multiplataforma na Fatec (Faculdade de Tecnologia). Acredito que um ambiente com desafios novos e únicos e caminhos sem mapa são a melhor maneira de evoluir, seja pessoalmente ou profissionalmente. Sempre atrás de grupos de eventos futuros, buscando sempre se integrar mais com a área.
 
 <div align="center">
 
-[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/jenniferdaleffi/)
-[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:jenniferdaleffii@gmail.com)
-[![Outlook](https://img.icons8.com/?size=50&id=117562&format=png&color=000000)](mailto:jenniferdaleffi@outlook.com)
+[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/viniciusmoreira-/)
+[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:vinnismoreira@gmail.com)
 
 </div>
 
-
-
 ## 💻 Áreas
 
-
-### Infra & Devops
-
-
-
-
+### Redes e IA
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -39,10 +34,11 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 
 | Área              | Habilidades                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------------|
-| **Idiomas**    | Português, Inglês, Espanhol                                                                            |
-| **Office**   |Word, Excel, Power BI, PowerPoint, Power Apps, Power Automate                                                                                 |
-| **Banco de Dados**| Oracle, PostgreeSql                                                                                |
-| **Metodologias**  | SCRUM, Kanban, Agile                                                                                 |
+| **Idiomas**    | Português, Inglês, Espanhol |
+| **Office**   |Word, Excel, Power BI, PowerPoint |
+| **Redes e Sistemas Operacionais**| gns3, Linux, Shell, ghcp |
+| **Metodologias**  | SCRUM, Kanban, Agile |
+| **Inteligência Artificial**  | Fine-tuning, scikit-learn, pytorch, Python |
 </div>
 
 
@@ -53,7 +49,7 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 ## Linguagens:
 <div align="center">
 
-[![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)]()
+[![SQL](https://img.icons8.com/color/50/000000/sql.png)]()
 [![Python](https://img.icons8.com/?size50&id=13441&format=png&color=000000)]()
 
 </div>
@@ -64,8 +60,8 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 
 <div align="center">
 
-[![Next](https://img.icons8.com/?size=50&id=yUdJlcKanVbh&format=png&color=000000)]()
-[![Vite](https://img.icons8.com/?size=50&id=dJjTWMogzFzg&format=png&color=000000)]()
+[![PyTorch](https://img.icons8.com/color/50/000000/pytorch.png)]()
+[![TensorFlow](https://img.icons8.com/ios-filled/50/000000/tensorflow.png)]()
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -90,8 +86,8 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferDaleffi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss-Moreira&theme=tokyonight)
 
-![Snake animation](https://github.com/JenniferDaleffi/JenniferDaleffi/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Viniciuss-Moreira/Viniciuss-Moreira/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
