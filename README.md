@@ -4,7 +4,7 @@
 
 <div align='center'>
 
-![Jennifer GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferDaleffi&show_icons=true&theme=radical)
+![Viniciuss-Moreira's Stats](https://github-readme-stats.vercel.app/api?username=Viniciuss-Moreira&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 
