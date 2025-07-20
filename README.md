@@ -88,6 +88,6 @@ Atualmente, estudante em Desenvolvimento de Software Multiplataforma na Fatec (F
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss-Moreira&theme=tokyonight)
 
-![snake animation](https://github.com/Viniciuss-Moreira/Viniciuss-Moreira/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/Viniciuss-Moreira/Viniciuss-Moreira/blob/output/github-contribution-grid-snake.svg)
 
 </div>
