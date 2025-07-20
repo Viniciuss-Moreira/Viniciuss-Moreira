@@ -52,17 +52,19 @@ Atualmente, estudante em Desenvolvimento de Software Multiplataforma na Fatec (F
 [![SQL](https://img.icons8.com/color/50/000000/sql.png)]()
 [![Python](https://img.icons8.com/?size50&id=13441&format=png&color=000000)]()
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Frameworks:
+## OS:
 
 <div align="center">
 
-[![PyTorch](https://img.icons8.com/color/50/000000/pytorch.png)]()
-[![TensorFlow](https://img.icons8.com/ios-filled/50/000000/tensorflow.png)]()
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
